@@ -97,5 +97,20 @@ These insights help evaluate risk exposure and financial performance.
 - **Data visualization tools (optional)**
 
 ---
-
 ## Project Structure
+
+```
+project/
+│
+├── data/
+│   ├── policy_sales_data.csv
+│   └── claims_data.csv
+│
+├── notebooks/
+│   └── data_generation.ipynb
+│
+├── sql/
+│   └── analysis_queries.sql
+│
+└── README.md
+```
